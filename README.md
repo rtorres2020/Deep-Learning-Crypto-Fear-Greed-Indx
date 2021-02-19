@@ -41,13 +41,20 @@ Finally, use the testing data to evaluate each model and compare the performance
 
 * *Which model has a lower loss?*
    #### The model based on closing prices has a lower loss than the model based on the (FNG) Index
-   
+  
    
 * *Which model tracks the actual values better over time?*
    #### The model based on closing prices tracks the actual values better than the model based on the (FNG) Index
    
+   ![10D](https://github.com/rtorres2020/Deep-Learning-Crypto-Fear-Greed-Indx/blob/main/Images/fng%20vs%20closing%20prices%2010D.png)
    
 * *Which window size works best for the model?*
    #### The 5 day window size works best for the model
+   
+   ![10D](https://github.com/rtorres2020/Deep-Learning-Crypto-Fear-Greed-Indx/blob/main/Images/fng%20vs%20closing%20prices%2010D.png)
+   
+   ![10D](https://github.com/rtorres2020/Deep-Learning-Crypto-Fear-Greed-Indx/blob/main/Images/fng%20vs%20closing%20prices%2010D.png)
+   
+   ![10D](https://github.com/rtorres2020/Deep-Learning-Crypto-Fear-Greed-Indx/blob/main/Images/fng%20vs%20closing%20prices%2010D.png)
 
 
