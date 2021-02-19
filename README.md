@@ -22,7 +22,7 @@ Use the starter code as a guide to create a Jupyter Notebook for each RNN. The s
 
   * Each model will need to use 70% of the data for training and 30% of the data for testing.
 
-Apply a MinMaxScaler to the X and y values to scale the data for the model.
+  * Apply a MinMaxScaler to the X and y values to scale the data for the model.
 
 Finally, reshape the X_train and X_test values to fit the model's requirement of samples, time steps, and features. (example: X_train = X_train.reshape((X_train.shape[0], X_train.shape[1], 1)))
 
