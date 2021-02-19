@@ -51,10 +51,10 @@ Finally, use the testing data to evaluate each model and compare the performance
 * *Which window size works best for the model?*
    #### The 5 day window size works best for the model
    
-   ![10D](https://github.com/rtorres2020/Deep-Learning-Crypto-Fear-Greed-Indx/blob/main/Images/fng%20vs%20closing%20prices%2010D.png)
+   ![10D](https://github.com/rtorres2020/Deep-Learning-Crypto-Fear-Greed-Indx/blob/main/Images/fng%20vs%20closing%20prices%205d.png)
    
    ![10D](https://github.com/rtorres2020/Deep-Learning-Crypto-Fear-Greed-Indx/blob/main/Images/fng%20vs%20closing%20prices%2010D.png)
    
-   ![10D](https://github.com/rtorres2020/Deep-Learning-Crypto-Fear-Greed-Indx/blob/main/Images/fng%20vs%20closing%20prices%2010D.png)
+   ![10D](https://github.com/rtorres2020/Deep-Learning-Crypto-Fear-Greed-Indx/blob/main/Images/fng%20vs%20closing%20prices%2020D.png)
 
 
